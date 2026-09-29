@@ -1,0 +1,11 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Material de estudo pessoal (não faz parte do repositório)
+GUIA.md
